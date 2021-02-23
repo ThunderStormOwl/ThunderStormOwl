@@ -1,10 +1,12 @@
-Hello!
+Hello! My name is Felipe Reichert Becker,  
 
-contact:
+Contact:
+
 email - fbecker.phil@gmail.com
-linkedin - 
 
-My name is Felipe Reichert Becker,  I have experience with the following technologies: REACT, TyperScript, less, css, C#, Unity, Unreal Engine, C++, Python, Java, Azure and VSCode
+linkedin -
+
+I have experience with the following technologies: REACT, TyperScript, less, css, C#, Unity, Unreal Engine, C++, Python, Java, Azure and VSCode
 
 A little bit about me: I currently live in Brasil, I have spent 8 years abroad, 2 in South Korea and 6 in Canada. During my stay in Canada I went to two colleges for game design where I discovered my passion for coding. After I came back to Brasil My carreer took a different path and now I work developing web applications.
 
