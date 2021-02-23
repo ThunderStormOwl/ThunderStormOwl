@@ -4,7 +4,7 @@ Contact:
 
 email - fbecker.phil@gmail.com
 
-linkedin -
+linkedin - https://www.linkedin.com/in/felipe-reichert-becker-295b8481/
 
 I have experience with the following technologies: REACT, TyperScript, less, css, C#, Unity, Unreal Engine, C++, Python, Java, Azure and VSCode
 
